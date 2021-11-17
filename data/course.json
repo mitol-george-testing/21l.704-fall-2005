@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2286868f-6668-7932-16e4-f8ff30cdde47"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Studies in Poetry: \"What's the Use of Beauty?\"",
+  "course_description": "This course explores variations on the proposition that an adequate recognition of beauty could, however indirectly, make you a more humane person. Readings extend widely across literary and non-literary genres, including lyric poetry and the novel, philosophical prose and essays.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.704",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
